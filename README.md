@@ -1,4 +1,9 @@
 # Guest-Demographics-Web-Form
 
-Demo web-form using spring boot
+*Technologies*
+<ul>
+<li>Java 17.6</li>
+<li>Spring Boot</li>
+<li>Bootstrap CDN</li>
+<li>Thymeleaf</li>
 
